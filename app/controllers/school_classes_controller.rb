@@ -1,4 +1,4 @@
-class SchoolClass < ApplicationController
+class SchoolClassesController < ApplicationController
 
     def new
     end
